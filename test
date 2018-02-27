@@ -1,7 +1,8 @@
 
-public class HelloWorld
+public class helloWorld
 {
     public void HellowWorld(){
         System.out.println("Zoe");
+        System.out.println("Violet");
     }
 }
